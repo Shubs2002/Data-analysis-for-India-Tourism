@@ -33,7 +33,7 @@ Here I, have plotted a Bar graph, Heat-Map for the first 20 entries, line graph 
  
    Line Graph <br>
    ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/9a4de8e7-421e-4037-88d9-733e6ceacab1)
-   | Point plotting on map  |
+   | Point plotting on map | Map Pop-ups |
    |-----------|---------|
    | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/974d7768-07da-4e6e-80b2-5c92a3a86910) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/a6378a4a-ec6b-4752-87eb-eb7ad2f81ab0) |
 
