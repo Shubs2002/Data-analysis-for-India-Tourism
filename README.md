@@ -26,26 +26,16 @@ Here I, have plotted a Bar graph, Heat-Map for the first 20 entries, line graph 
     ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/920be677-347d-412b-abda-55aa33c6b2c0)
 
 3. Data Visualization:
-     <div style="Display:grid; grid-template-columns: auto auto">
-       <div>
-    - Bar Plot <br>
-          ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/17ef3aa2-cac9-427a-bd36-2d3645700c2b)
-       </div>
-       <div>
-    - Heat Map <br>
-          ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/f682c25f-18b5-47c8-8f80-8e25aa2ea638)
-       </div>
-       <div>
-    - Line Graph <br>
+    | Bar Plot  |Heat Map |
+    |-----------|---------|  
+   | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/17ef3aa2-cac9-427a-bd36-2d3645700c2b) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/f682c25f-18b5-47c8-8f80-8e25aa2ea638)
+   <br>      
+    - Line Graph 
           ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/9a4de8e7-421e-4037-88d9-733e6ceacab1)
-       </div>
-       <div>
-    - Point Plotting on Map <br>
+    - Point Plotting on Map
           ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/974d7768-07da-4e6e-80b2-5c92a3a86910)
-       </div>
-     </div>
-
-4. Forecasting for 2yrs foreign travellers using linear regression:
+      
+5. Forecasting for 2yrs foreign travellers using linear regression:
      - Foreign travels vs rows
      ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/84d9d03a-d6b1-4d6d-962e-5685fdc6392e)
      - Foreign travels vs year
