@@ -6,7 +6,7 @@ Here I, have plotted a Bar graph, Heat-Map for the first 20 entries, line graph 
 1.R-Studo
   - https://posit.co/download/rstudio-desktop/
 
-## Steps for making project run
+### Follow this steps to Build your project 
 1. Open the project in Rstudio. 
 2. Copy the datasets too your PC "Document folder"(I havent changed the working directory so you need to do it manually).
 3. Runn the following commands one by one on the console.
@@ -15,4 +15,4 @@ Here I, have plotted a Bar graph, Heat-Map for the first 20 entries, line graph 
   - install.packages("leaflet")
   - install.packages("forecast")
 4. Now run each line of the code by pressing "Ctrl+Enter".
-# !!!Happy Hacking!!!
+## !!!Happy Hacking!!!
