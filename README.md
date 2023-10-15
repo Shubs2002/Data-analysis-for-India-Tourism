@@ -17,7 +17,7 @@ Here I, have plotted a Bar graph, Heat-Map for the first 20 entries, line graph 
   - install.packages("forecast")
 4. Press "Ctrl+Enter" to execute each line of code now.
 
-### Outputs:-
+### Outputs:
 1. Data Summarization:
    ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/a2f0cd56-fcd5-485c-a558-93d0bec7451f)
    ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/bf85bf5f-a618-4b3f-a89b-25771dbaa6a1)
