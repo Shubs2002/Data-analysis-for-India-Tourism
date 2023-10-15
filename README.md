@@ -8,7 +8,7 @@ Here I, have plotted a Bar graph, Heat-Map for the first 20 entries, line graph 
 
 ### Steps to make this project your Own: 
 1. Open the project in Rstudio.
-2. Copy the datasets to your computer's "Document folder" (you must manually do this because I didn't alter the working directory).
+2. Copy the datasets to your computer's "Document's" folder (you must manually do this because I didn't alter the working directory).
 3. Runn the following commands one by one on the console.
   - install.packages("ggplot2")
   - install.packages("reshape2")
