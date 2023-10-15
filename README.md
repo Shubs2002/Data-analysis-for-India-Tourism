@@ -19,12 +19,13 @@ Here I, have plotted a Bar graph, Heat-Map for the first 20 entries, line graph 
 
 ### Outputs:-
 1. Data Summarization:
+    |--------|-------|
    | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/a2f0cd56-fcd5-485c-a558-93d0bec7451f) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/bf85bf5f-a618-4b3f-a89b-25771dbaa6a1) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/bb24411d-c303-4d7b-ae4e-428d0f0f3549) |
    
-2. Data Cleaning:
+3. Data Cleaning:
     ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/920be677-347d-412b-abda-55aa33c6b2c0)
 
-3. Data Visualization:
+4. Data Visualization:
     | Bar Plot  |Heat Map |
     |-----------|---------|  
    | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/17ef3aa2-cac9-427a-bd36-2d3645700c2b) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/f682c25f-18b5-47c8-8f80-8e25aa2ea638)
