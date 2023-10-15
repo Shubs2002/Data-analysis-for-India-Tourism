@@ -31,11 +31,15 @@ Here I, have plotted a Bar graph, Heat-Map for the first 20 entries, line graph 
     |-----------|---------|  
    | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/17ef3aa2-cac9-427a-bd36-2d3645700c2b) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/f682c25f-18b5-47c8-8f80-8e25aa2ea638)
  
-   | Line Graph  | Point Plotting on Map |
+   | Line Graph  |--------- |
    |-----------|---------| 
-   | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/9a4de8e7-421e-4037-88d9-733e6ceacab1) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/974d7768-07da-4e6e-80b2-5c92a3a86910) |
+   | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/9a4de8e7-421e-4037-88d9-733e6ceacab1) |  |
+   | Point plotting on map |--------- |
+   |-----------|---------|
+   | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/974d7768-07da-4e6e-80b2-5c92a3a86910) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/a6378a4a-ec6b-4752-87eb-eb7ad2f81ab0) |
+
       
-5. Forecasting for 2yrs foreign travellers using linear regression:
+6. Forecasting for 2yrs foreign travellers using linear regression:
      | Foreign travels vs rows | Foreign travels vs year |
      |-----------|---------| 
      | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/84d9d03a-d6b1-4d6d-962e-5685fdc6392e) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/97854f08-8c87-4e82-bd6f-2ee689b4792b) |
