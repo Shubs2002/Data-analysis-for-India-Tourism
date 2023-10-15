@@ -26,13 +26,13 @@ Here I, have plotted a Bar graph, Heat-Map for the first 20 entries, line graph 
     ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/920be677-347d-412b-abda-55aa33c6b2c0)
 
 3. Data Visualization:
-    - Bar Plot
+    - Bar Plot <br>
           ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/17ef3aa2-cac9-427a-bd36-2d3645700c2b)
-    - Heat Map
+    - Heat Map <br>
           ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/f682c25f-18b5-47c8-8f80-8e25aa2ea638)
-    - Line Graph
+    - Line Graph <br>
           ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/9a4de8e7-421e-4037-88d9-733e6ceacab1)
-    - Point Plotting on Map
+    - Point Plotting on Map <br>
           ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/974d7768-07da-4e6e-80b2-5c92a3a86910)
 
 4. Forecasting for 2yrs foreign travellers using linear regression:
