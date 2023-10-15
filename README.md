@@ -19,9 +19,9 @@ Here I, have plotted a Bar graph, Heat-Map for the first 20 entries, line graph 
 
 ### Outputs:-
 1. Data Summarization:
-   | Head | Summary | str | 
-   |--------|-------|------|
-   | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/a2f0cd56-fcd5-485c-a558-93d0bec7451f) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/bf85bf5f-a618-4b3f-a89b-25771dbaa6a1) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/bb24411d-c303-4d7b-ae4e-428d0f0f3549) |
+   ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/a2f0cd56-fcd5-485c-a558-93d0bec7451f)
+   ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/bf85bf5f-a618-4b3f-a89b-25771dbaa6a1)
+   ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/bb24411d-c303-4d7b-ae4e-428d0f0f3549)
    
 3. Data Cleaning:
     ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/920be677-347d-412b-abda-55aa33c6b2c0)
